@@ -1,0 +1,26 @@
+Program Face Recognition (IoT)
+|
+|---DataCollector.py
+|---DataTrainer.py
+|---Recognizer.py
+|   
++---Cascades
+|	|
+|	haarcascade_frontalface_default.xml (download @ http://alereimondo.no-ip.org/OpenCV/34)
+|       
+\---credentials
+	|
+	trainingdata-283514-b77da1095f87.json (GCP key --Every Service Account Has Different Key)
+
+
+
+
+
+
+
+
+
+
+
+
+
